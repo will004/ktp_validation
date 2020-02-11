@@ -1,3 +1,7 @@
+#Folders
+__pycache__/
+.vscode/
+
 # Files
 *.jpg
 *.txt
