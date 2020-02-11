@@ -12,5 +12,5 @@ The app will validate between user's inputs and the content of KTP. It uses OCR 
 Install the requirement using <br>
 `pip install -r requirements.txt`.
 
-Run the app using: <br>
+To run the app use: <br>
 `python run.py`
